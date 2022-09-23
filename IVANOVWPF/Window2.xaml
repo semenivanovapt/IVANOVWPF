@@ -11,6 +11,9 @@
             <Label Canvas.Left="10" Canvas.Top="10" Content="Регистрация юзера" />
             <Label Canvas.Left="10" Canvas.Top="40" Content="Ф.И.О." />
             <TextBox Canvas.Left="70" Canvas.Top="40" Width="200" />
+            <Label Canvas.Left="10" Canvas.Top="70" Content="EMail" />
+            <TextBox Canvas.Left="70" Canvas.Top="70" Width="200" />
+            <Button Canvas.Top="100" Content="Регистрациия"/>
         </Canvas>
     </Grid>
 </Window>
