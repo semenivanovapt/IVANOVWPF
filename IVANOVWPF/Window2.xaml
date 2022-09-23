@@ -13,7 +13,7 @@
             <TextBox Canvas.Left="70" Canvas.Top="40" Width="200" />
             <Label Canvas.Left="10" Canvas.Top="70" Content="EMail" />
             <TextBox Canvas.Left="70" Canvas.Top="70" Width="200" />
-            <Button Canvas.Top="102" Content="Регистрациия" HorizontalAlignment="Left" VerticalAlignment="Center" Width="159" Height="35" Canvas.Left="15"/>
+            <Button Canvas.Top="102" Content="Регистрация" HorizontalAlignment="Left" VerticalAlignment="Center" Width="159" Height="35" Canvas.Left="15"/>
         </Canvas>
     </Grid>
 </Window>
