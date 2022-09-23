@@ -1,0 +1,33 @@
+﻿<Window x:Class="IVANOVWPF.Window3"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:IVANOVWPF"
+        mc:Ignorable="d"
+        Title="Window3" Height="450" Width="800">
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" Text="Последние документы" VerticalAlignment="Top"/>
+            <Button Content="Открыть" HorizontalAlignment="Left" Margin="168,10,0,0" VerticalAlignment="Top"/>
+            <Button Content="Сохранить" HorizontalAlignment="Left" Margin="236,11,0,0" VerticalAlignment="Top"/>
+        <Button Content="Закрыть" HorizontalAlignment="Left" Margin="313,11,0,0" VerticalAlignment="Top"/>
+        <Button Content="Обработать" HorizontalAlignment="Left" Margin="375,11,0,0" VerticalAlignment="Top"/>
+        <Button Content="О программе" HorizontalAlignment="Left" Margin="459,11,0,0" VerticalAlignment="Top"/>
+        <Label Content="1.txt" HorizontalAlignment="Left" Margin="10,42,0,0" VerticalAlignment="Top"/>
+        <Label Content="1.txt" HorizontalAlignment="Left" Margin="199,42,0,0" VerticalAlignment="Top"/>
+        <Label Content="1.txt" HorizontalAlignment="Left" Margin="161,42,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <Label Content="2.txt" HorizontalAlignment="Left" Margin="10,68,0,0" VerticalAlignment="Top"/>
+        <Label Content="5.txt" HorizontalAlignment="Left" Margin="10,146,0,0" VerticalAlignment="Top"/>
+        <Label Content="4.txt" HorizontalAlignment="Left" Margin="10,120,0,0" VerticalAlignment="Top"/>
+        <Label Content="3.txt" HorizontalAlignment="Left" Margin="10,94,0,0" VerticalAlignment="Top"/>
+        <Label Content="1.txt" HorizontalAlignment="Left" Margin="237,42,0,0" VerticalAlignment="Top"/>
+        <Label Content="6.txt" HorizontalAlignment="Left" Margin="10,172,0,0" VerticalAlignment="Top"/>
+        <Label Content="A" HorizontalAlignment="Left" Margin="168,81,0,0" VerticalAlignment="Top" VerticalContentAlignment="Top" HorizontalContentAlignment="Left" Width="64" Background="#FFF9FB01" Height="65"/>
+        <Label Content="B" HorizontalAlignment="Left" Margin="253,81,0,0" VerticalAlignment="Top" VerticalContentAlignment="Top" HorizontalContentAlignment="Left" Width="64" Background="#FFFB3A01" Height="65"/>
+        <Label Content="C" HorizontalAlignment="Left" Margin="338,81,0,0" VerticalAlignment="Top" VerticalContentAlignment="Top" HorizontalContentAlignment="Left" Width="64" Background="#FF01FB3E" Height="65"/>
+        <Label Content="D" HorizontalAlignment="Left" Margin="420,81,0,0" VerticalAlignment="Top" VerticalContentAlignment="Top" HorizontalContentAlignment="Left" Width="64" Background="#FF01A5FB" Height="65"/>
+        <Label Content="E" HorizontalAlignment="Left" Margin="498,81,0,0" VerticalAlignment="Top" VerticalContentAlignment="Top" HorizontalContentAlignment="Left" Width="64" Background="#FF717167" Height="65"/>
+            <Label Content="F" HorizontalAlignment="Left" Margin="577,81,0,0" VerticalAlignment="Top" VerticalContentAlignment="Top" HorizontalContentAlignment="Left" Width="64" Background="#FFF5F5A7" Height="65"/>
+
+    </Grid>
+</Window>
